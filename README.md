@@ -1,0 +1,2 @@
+# QQSDK
+QQSDK TencentOpenAPI.framework 
