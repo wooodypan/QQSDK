@@ -1,7 +1,7 @@
 # QQSDK
 QQSDK TencentOpenAPI.framework 
 
-
+``` ruby
 本来想用subspec：
 s.subspec 'QQSDK' do |qqsdk|
     #http://wiki.connect.qq.com/sdk下载
@@ -15,5 +15,6 @@ s.subspec 'QQSDK' do |qqsdk|
     # qqsdk.libraries = 'z', 'sqlite3.0', 'c++', 'iconv'
     # qqsdk.framework    = "CoreTelephony", "Security", "SystemConfiguration", "CoreGraphics"
   end
+  ```
   
  谁知道新项目不行，mmp
