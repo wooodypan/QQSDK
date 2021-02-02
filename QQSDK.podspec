@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'QQSDK'
-  s.version          = '1.0.0'
+  s.version          = '3.5.1'
   s.summary          = '腾讯开放API'
 
   s.description      = <<-DESC
